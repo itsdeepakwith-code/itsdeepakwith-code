@@ -8,7 +8,7 @@ Full Stack Development
 
 * 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [deepakmohanan17@gmail.com](mailto:deepakmohanan17@gmail.com)
-* 🧠  I'm learning JavaScript, React
+* 🧠  I'm learning JavaScript, Python, Linux
 * 🤝  I'm open to collaborating on Front End Projects
 * ⚡  "I don't need your cooperation. I'll find the truth on my own. And when I do, you'll know."
 
